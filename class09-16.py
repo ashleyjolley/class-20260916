@@ -1,2 +1,2 @@
-name = input("What is your name? ").title()
+name = input("What is your name? ").strip().title()
 print('Hello' , name)
