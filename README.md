@@ -1,1 +1,4 @@
-# class-20260916
+x = 1
+y = 2
+z = x + y
+print(z)
